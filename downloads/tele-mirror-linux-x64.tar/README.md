@@ -1,0 +1,34 @@
+# tele-mirror-linux-x64.tar
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `tele-mirror-linux-x64.tar.gz` |
+| **Total Size** | **3 parts** - **112.44 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Links
+
+| # | File | Link |
+|---|------|------|
+| 1 | `tele-mirror-linux-x64.tar.z01` | [Download](https://github.com/dan1741/github-dl/raw/main/downloads/tele-mirror-linux-x64.tar/tele-mirror-linux-x64.tar.z01) |
+| 2 | `tele-mirror-linux-x64.tar.z02` | [Download](https://github.com/dan1741/github-dl/raw/main/downloads/tele-mirror-linux-x64.tar/tele-mirror-linux-x64.tar.z02) |
+| 3 | `tele-mirror-linux-x64.tar.zip` | [Download](https://github.com/dan1741/github-dl/raw/main/downloads/tele-mirror-linux-x64.tar/tele-mirror-linux-x64.tar.zip) |
+
+---
+
+## How to Extract
+
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `tele-mirror-linux-x64.tar.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
