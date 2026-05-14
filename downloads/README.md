@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [brave-browser-nightly_1.92.59_amd64](./brave-browser-nightly_1.92.59_amd64)
 - [cns_1.2.2_amd64](./cns_1.2.2_amd64)
 - [mhr-cfw-go-linux-amd64](./mhr-cfw-go-linux-amd64)
 - [mhrv-rs-android-arm64-v8a-v1.9.18](./mhrv-rs-android-arm64-v8a-v1.9.18)
